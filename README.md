@@ -1,7 +1,6 @@
-# fullmoon iOS
-![fullmoon iOS](https://fullmoon.app/images/app.png)
+# FullMoonPocketCompanion
 
-[fullmoon](https://fullmoon.app) is an iOS app to chat with local large language models that’s optimized for Apple silicon and works on iPhone, iPad, and Mac. your chat history is saved locally, and you can customize the appearance of the app.
+This is a specialized for of [fullmoon](https://fullmoon.app), wrapped in a "standart joe" layout.
 
 ## supported models
 - [x] [Llama 3.2 1B](https://huggingface.co/mlx-community/Llama-3.2-1B-Instruct-4bit)
@@ -9,4 +8,5 @@
 - [x] [DeepSeek-R1-Distill-Qwen-1.5B-4bit](https://huggingface.co/mlx-community/DeepSeek-R1-Distill-Qwen-1.5B-4bit)
 
 ## credits
-fullmoon is made possible by [MLX Swift](https://github.com/ml-explore/mlx-swift) from Apple. [MLX](https://github.com/ml-explore/mlx) is an array framework for machine learning research on Apple silicon.
+[fullmoon](https://fullmoon.app)
+This app is all possible by theme behind the FullMoon app.
